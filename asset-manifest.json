@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/maaDurgaChemicals/static/css/main.4b1ed08d.css",
+    "main.js": "/maaDurgaChemicals/static/js/main.77543ede.js",
+    "index.html": "/maaDurgaChemicals/index.html",
+    "main.4b1ed08d.css.map": "/maaDurgaChemicals/static/css/main.4b1ed08d.css.map",
+    "main.77543ede.js.map": "/maaDurgaChemicals/static/js/main.77543ede.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b1ed08d.css",
+    "static/js/main.77543ede.js"
+  ]
+}
