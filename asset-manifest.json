@@ -1,13 +1,18 @@
 {
   "files": {
-    "main.css": "/maaDurgaChemicals/static/css/main.4b1ed08d.css",
-    "main.js": "/maaDurgaChemicals/static/js/main.77543ede.js",
+    "main.css": "/maaDurgaChemicals/static/css/main.f3cce7e4.css",
+    "main.js": "/maaDurgaChemicals/static/js/main.027d6094.js",
+    "static/media/header.jpg": "/maaDurgaChemicals/static/media/header.11f062926b57d964a305.jpg",
+    "static/media/c1.png": "/maaDurgaChemicals/static/media/c1.bb606367e48c873108e4.png",
+    "static/media/c4.png": "/maaDurgaChemicals/static/media/c4.4ec01549abfd321f1a99.png",
+    "static/media/c3.png": "/maaDurgaChemicals/static/media/c3.2523283a01dd6bb223d3.png",
+    "static/media/fileInput.txt": "/maaDurgaChemicals/static/media/fileInput.f575273e2d6b83d6ed34.txt",
     "index.html": "/maaDurgaChemicals/index.html",
-    "main.4b1ed08d.css.map": "/maaDurgaChemicals/static/css/main.4b1ed08d.css.map",
-    "main.77543ede.js.map": "/maaDurgaChemicals/static/js/main.77543ede.js.map"
+    "main.f3cce7e4.css.map": "/maaDurgaChemicals/static/css/main.f3cce7e4.css.map",
+    "main.027d6094.js.map": "/maaDurgaChemicals/static/js/main.027d6094.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b1ed08d.css",
-    "static/js/main.77543ede.js"
+    "static/css/main.f3cce7e4.css",
+    "static/js/main.027d6094.js"
   ]
 }
