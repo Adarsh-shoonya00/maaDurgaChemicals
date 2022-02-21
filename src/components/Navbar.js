@@ -82,7 +82,9 @@ function Navbar() {
               </Link>
             </li>
           </ul>
-          <div className="button" onClick={openBar}>
+          <div className="button" 
+          onClick={openBar}
+          >
             <div className="burger"></div>
             <div className="burger"></div>
             <div className="burger"></div>

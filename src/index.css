@@ -521,6 +521,9 @@ h4{
   .navopened .logo {
     color: #fafafa!important;
   }
+  h1.logo{
+    max-width: 80%;
+  }
   .navopened ul li a {
     color: #010606!important;
   }
@@ -528,7 +531,9 @@ h4{
     background-color: #fafafa!important;
   }
   .container {
-    width: auto;
+   max-width: 576px;
+   margin:0%;
+   padding:0%;
   }
   header h1 {
 
