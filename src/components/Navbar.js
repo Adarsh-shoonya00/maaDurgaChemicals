@@ -81,18 +81,6 @@ function Navbar() {
                 About
               </Link>
             </li>
-            <li>
-              <Link
-                onClick={openBar}
-                to="contact"
-                spy={true}
-                smooth={true}
-                duration={1000}
-                activeClass="active"
-              >
-                Contact
-              </Link>
-            </li>
           </ul>
           <div className="button" onClick={openBar}>
             <div className="burger"></div>

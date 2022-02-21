@@ -1,8 +1,8 @@
 function Header() {
   return (
     <header>
-      <video src="/video.mp4" loop autoPlay muted></video>
-      <h1>Description</h1>
+      <h1>Maa Durga Chemicals</h1>
+      
       <div className="headerbg"></div>
     </header>
   );

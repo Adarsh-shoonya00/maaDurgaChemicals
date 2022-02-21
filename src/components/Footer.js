@@ -10,10 +10,10 @@ function Footer() {
           <div className="side1">
             <div className="row">
               <div className="col-md-3">
-                <h1 className="logo">DarkLeas</h1>
+                <h1 className="logo">Maa Durga Chemicals</h1>
                 <p className="footer-text">
-                  Lorem ipsum Here are thriteen health benefits of apples Lorem
-        
+                  <br></br>
+                  <br></br>
                 </p>
               </div>
               <div className="col-md-3">
@@ -33,9 +33,7 @@ function Footer() {
                   <li>
                   <Link to="about-scroll" spy={true} smooth={true} duration={1000}>About Us  </Link>
                   </li>
-                  <li>
-                  <Link to="contact" spy={true} smooth={true} duration={1000}> Contact  </Link>
-                  </li>
+                  
                 </ul>
               </div>
             </div>
@@ -46,27 +44,27 @@ function Footer() {
                 <p className="footer-title">Contact</p>
                 <ul>
                   <li>
-                    <Link to="#" >abcd@gmail.com</Link>
+                    <Link to="#" >maadurgachemical1008@gmail.com</Link>
                   </li>
                   <li>
                     <Link to="#" > Barh 803213</Link>
                   </li>
                   <li>
-                    <Link to="#" >9876543210</Link>
+                    <Link to="#" >9065163227</Link>
                   </li>
                 </ul>
               </div>
               <div className="col-md-3">
-                <p className="footer-title">Social Media</p>
+                <p className="footer-title">Developer Details</p>
                 <ul>
                   <li>
-                    <a target="_blank" rel="noreferrer" href="https://github.com/dark" > Github</a>
+                     <h4>raj21adarsh@gmail.com</h4>
                   </li>
                   <li>
-                    <a target="_blank" rel="noreferrer" href="https://twitter.com/b" > Twitter</a>
+                    <a target="_blank" rel="noreferrer" href="https://github.com/Adarsh-shoonya00" > Github</a>
                   </li>
                   <li>
-                    <a target="_blank" rel="noreferrer" href="https://www.linkedin.com"> Linkedin</a>
+                    <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/adarsh-raj-b7489a1a7/"> Linkedin</a>
                   </li>
                 </ul>
               </div>
