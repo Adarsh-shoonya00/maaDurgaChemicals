@@ -71,6 +71,9 @@ function Footer() {
             </div>
           </div>
         </div>
+        <div className="companydetail">
+          <h2>Managed by Repto Technologies Pvt.Ltd</h2>
+        </div>
       </div>
       <button onClick={() => scroll.scrollToTop(2500)} src="" className="gotop"><i className="fas fa-level-up-alt"></i></button>
 
