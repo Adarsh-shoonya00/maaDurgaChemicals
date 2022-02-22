@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.dab8f0b0.css",
-    "main.js": "/static/js/main.a647539c.js",
+    "main.css": "/static/css/main.dba254fd.css",
+    "main.js": "/static/js/main.02a56c4f.js",
+    "static/media/reptologo.png": "/static/media/reptologo.2e25b8489047ba433351.png",
     "static/media/header.jpg": "/static/media/header.11f062926b57d964a305.jpg",
     "static/media/c1.png": "/static/media/c1.bb606367e48c873108e4.png",
     "static/media/c4.png": "/static/media/c4.4ec01549abfd321f1a99.png",
     "static/media/c3.png": "/static/media/c3.2523283a01dd6bb223d3.png",
-    "static/media/fileInput.txt": "/static/media/fileInput.f575273e2d6b83d6ed34.txt",
     "index.html": "/index.html",
-    "main.dab8f0b0.css.map": "/static/css/main.dab8f0b0.css.map",
-    "main.a647539c.js.map": "/static/js/main.a647539c.js.map"
+    "main.dba254fd.css.map": "/static/css/main.dba254fd.css.map",
+    "main.02a56c4f.js.map": "/static/js/main.02a56c4f.js.map"
   },
   "entrypoints": [
-    "static/css/main.dab8f0b0.css",
-    "static/js/main.a647539c.js"
+    "static/css/main.dba254fd.css",
+    "static/js/main.02a56c4f.js"
   ]
 }
